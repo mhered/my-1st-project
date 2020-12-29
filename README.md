@@ -1,6 +1,6 @@
 # my-1st-project
 
-My first AI project in python. Also, final project for the Building AI course
+Final project for the Building AI course. Also my first time using AI, python, GitHub and Raspberry Pi. What could go wrong? 
 
 ## Summary
 
@@ -9,20 +9,19 @@ The goal of this project is to build a desktop-sized automatic sorter for small 
 ## Background
 
 The project is a simple pilot to demonstrate the different building blocks needed for AI-based industrial applications:
-* mechatronics 
 * programming
+* mechatronics 
 * training an AI model
 
 ## How is it used?
 
-The idea is building a desktop-sized working sorter, powered by a Raspberry Pi 4, to keep either at home or at the office.
+The idea is building a desktop-sized sorter, powered by a Raspberry Pi 4, to keep at home or at the office.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![A first sketch of the concept](https://github.com/mhered/my-1st-project/blob/mhered-patch-1/first%20draft.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://github.com/mhered/my-1st-project/blob/mhered-patch-1/first%20draft.jpg" width="300">
+
 
 Here will be code snippets:
 ```
@@ -35,25 +34,25 @@ def main():
 main()
 ```
 
-## Data sources and AI methods
+## Data sources, Equipment and AI methods
 
-I plan to collect the data myself using a Picamera
+I plan to collect the data needed to train the model using the actual setup.
 
-| Syntax      | Description |
+| Element   | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Computer      | Raspberry Pi 4       |
+| Camera   |   Pi Camera V2      |
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This is _not_ a professional project or a professionally developed tutorial for beginners. This is an honest to God first try so it i doubful whether it should be taken as an example. That said, if you find anything here useful I am happy to share, just be warned!
 
 ## What next?
 
-This is a basic demonstrator with a very limited scope, and the main purpose is to gain experience on the above fields. 
+This is a basic demonstrator with a very limited scope, and the main purpose is to gain experience on the different fields and technologies involved. 
 
-Ultimately the goal will be to later expand the scope to deal with real industrial applications such as detection of defects for quality control, FOD detection in aircraft or garbage sorting for recycling. 
+Ultimately the goal will be to later expand the scope to deal with more complex real industrial applications such as detection of defects for quality control, FOD detection in aircraft or garbage sorting for recycling. 
 
 ## Acknowledgments
 
-This project was inspired in [this teachable sorter](https://coral.ai/projects/teachable-sorter/#project-intro)
+This project was inspired in [this tiny sorter](https://experiments.withgoogle.com/tiny-sorter/view) and [this teachable sorter](https://coral.ai/projects/teachable-sorter/#project-intro)
