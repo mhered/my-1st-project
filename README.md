@@ -52,4 +52,4 @@ Ultimately the goal will be to later expand the scope to deal with more complex 
 
 ## Acknowledgments
 
-This project was inspired in [this tiny sorter](https://experiments.withgoogle.com/tiny-sorter/view) and [this teachable sorter](https://coral.ai/projects/teachable-sorter/#project-intro)
+This project was inspired in [this tiny sorter](https://experiments.withgoogle.com/tiny-sorter/view) [this Lego sorter](https://www.hackster.io/news/this-amazing-ai-powered-machine-can-sort-every-lego-brick-ever-made-21abaa41e4d5), and [this teachable sorter](https://coral.ai/projects/teachable-sorter/#project-intro)
