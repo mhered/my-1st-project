@@ -19,14 +19,10 @@ The idea is building a desktop-sized sorter, powered by a Raspberry Pi 4, to kee
 
 ![A first sketch of the concept](https://github.com/mhered/my-1st-project/blob/mhered-patch-1/first%20draft.jpg)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://github.com/mhered/my-1st-project/blob/mhered-patch-1/first%20draft.jpg" width="300">
-
-
-Here will be code snippets:
+Here there will be code snippets:
 ```
 def main():
-   # here will be some sample code
+   # here there will be some sample code
    
    while True:
       pass
@@ -40,8 +36,9 @@ I plan to collect the data needed to train the model using the actual setup.
 
 | Element   | Description |
 | ----------- | ----------- |
-| Computer      | Raspberry Pi 4       |
+| Computer     | Raspberry Pi 4       |
 | Camera   |   Pi Camera V2      |
+| ...      | ...       |
 
 ## Challenges
 
