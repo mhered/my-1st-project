@@ -17,9 +17,7 @@ The project is a simple pilot to demonstrate the different building blocks neede
 
 The idea is building a desktop-sized sorter, powered by a Raspberry Pi 4, to keep at home or at the office.
 
-![A first sketch of the concept](https://github.com/mhered/my-1st-project/blob/mhered-patch-1/first-draft.jpg)
-
-
+![A first sketch of the concept](https://github.com/mhered/my-1st-project/blob/main/first-draft.jpg)
 
 Here there will be code snippets:
 ```
